@@ -34,4 +34,11 @@ public class TestController
         System.out.println("Enter TestControll.dispatchDelTest()");
         return "del";
     }
+
+    @RequestMapping(value = "/test")
+    public String dispatchTest(String test)
+    {
+        System.out.println("Enter TestController.dispatchTest(), test: " + test);
+        return "redirect:/test2.jsp?test="+test;
+    }
 }
