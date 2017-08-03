@@ -8,9 +8,9 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
   <head>
-    <title>SpringMVC--Index</title>
+    <title>Test-add1</title>
   </head>
   <body>
-  Index
+  add1
   </body>
 </html>
