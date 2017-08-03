@@ -1,8 +1,8 @@
 <component name="libraryTable">
   <library name="JSTL1.1">
     <CLASSES>
-      <root url="jar://D:/Programs/intellij/libs/JSTL1.1/jstl.jar!/" />
-      <root url="jar://D:/Programs/intellij/libs/JSTL1.1/standard.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jstl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/standard.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
